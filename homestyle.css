@@ -31,11 +31,11 @@ li a:hover {
 }
 #site-title{
 	font-family:"Andale Mono", monospace;
-	font-size:24px;
+	font-size:20px;
 }
 
 .page-link{
-	font-family:"Book Antiqua", serif;
+	font-family:"Geneva", sans-serif;
 	font-size:16px;
 }
 #canyon {
