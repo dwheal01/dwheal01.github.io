@@ -52,3 +52,9 @@ li a:hover {
   	padding: 100px 0px 100px 0px;
   	float:left;
 }
+
+section {
+	margin-left: 200px;
+  	margin-right: 200px;
+  	padding: 200px;
+}
