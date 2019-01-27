@@ -20,7 +20,7 @@ li a {
   display: block;
   color: slategrey;
   text-align: left;
-  padding: 35px 35px 35px 0px;
+  padding: 30px 35px 35px 0px;
   text-decoration: none;
   
 }
@@ -33,4 +33,9 @@ li a:hover {
 #canyon {
 	width: 100%;
 	border: 0;
+}
+
+#me {
+	width: 500px;
+	height: 600px;
 }
