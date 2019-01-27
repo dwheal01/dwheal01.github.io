@@ -18,10 +18,10 @@ li {
 }
 
 li a {
-  display: inline;
+  display: block;
   color: white;
   text-align: left;
-  padding: 14px 16px 14px 0px;
+  padding: 25px 25px 25px 0px;
   text-decoration: none;
   
 }
