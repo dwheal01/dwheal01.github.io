@@ -8,6 +8,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	background-color: #333;
 }
 
 li {
@@ -15,10 +16,11 @@ li {
 }
 
 li a {
+  display: block;
   text-align: center;
   padding: 50px 0px 50px 0px;
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 /* Change the link color to #111 (black) on hover */
