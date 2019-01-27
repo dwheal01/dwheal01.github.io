@@ -1,13 +1,12 @@
 body {
-	background-color: slategrey;
-	margin-left: 200px;
-  	margin-right: 200px;
-	
+	background-color: white;
+
 }
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin-left: 200px;
+  margin-right: 200px;
   padding: 0;
   overflow: hidden;
   
@@ -19,7 +18,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: slategrey;
   text-align: left;
   padding: 50px 50px 50px 0px;
   text-decoration: none;
@@ -31,6 +30,6 @@ li a:hover {
   text-decoration: underline;
 }
 
-#garden {
+#canyon {
 	width: 100%;
 }
