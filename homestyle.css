@@ -14,8 +14,8 @@ li {
 }
 
 li a {
-  display: inline;
-  color: white;
+  display: block;
+  color: none;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
