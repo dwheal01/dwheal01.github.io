@@ -54,7 +54,7 @@ li a:hover {
 }
 
 section {	
-  	padding: 200px;
+  	padding: 150px;
   	color: slategrey;
 }
 
@@ -63,7 +63,7 @@ h1 {
 	font-size:28px;
 	text-align: center;
 	text-decoration: bold;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
 }
 
 h2 {
@@ -71,7 +71,7 @@ h2 {
 	font-size: 20px;
 	text-align: center;
 	text-decoration: italic;
-	padding-bottom: 5px;
+	padding-bottom: 0px;
 }
 
 p {
