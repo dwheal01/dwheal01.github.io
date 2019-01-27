@@ -21,7 +21,7 @@ li a {
   display: block;
   color: white;
   text-align: left;
-  padding: 100px 100px 100px 0px;
+  padding: 50px 50px 50px 0px;
   text-decoration: none;
   
 }
@@ -29,4 +29,8 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   text-decoration: underline;
+}
+
+#garden {
+	width: 100%;
 }
