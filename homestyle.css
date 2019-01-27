@@ -18,7 +18,7 @@ li {
 }
 
 li a {
-  display: block;
+  display: inline;
   color: white;
   text-align: left;
   padding: 0px 16px 14px;
