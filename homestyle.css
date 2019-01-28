@@ -82,6 +82,12 @@ p {
 #box-link {
 	font-family:"Andale Mono", monospace;
 	font-size: 14px;
+	background-color:#6099c9;
+	color:white;
+	padding:14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display:inline-block;
 	 
 	/*width:100px;
 	border:5px red;
