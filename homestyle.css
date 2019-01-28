@@ -12,10 +12,6 @@ ul {
   
 }
 
-li {
-  float: left;
-}
-
 li a {
   display: block;
   color: slategrey;
@@ -32,6 +28,7 @@ li a:hover {
 #site-title{
 	font-family:"Andale Mono", monospace;
 	font-size:20px;
+	float:left;
 }
 
 .page-link{
