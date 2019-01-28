@@ -55,7 +55,8 @@ li a:hover {
 	display:inline-block;
 	border-radius: 10px;
 	padding:14px 25px;
-	clear: right;
+	position: absolute;
+	right:0px;
 }
 span {
 	margin: 10px;
