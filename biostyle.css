@@ -67,6 +67,7 @@ p {
 	position: relative;
 	background-color: inherit;
 	width: 80%;
+	left: 10%;
 }
 
 .timeline-item::after {
