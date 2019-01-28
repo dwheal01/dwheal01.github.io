@@ -53,6 +53,10 @@ li a:hover {
   	float:left;
 }
 
+section {
+	margin-right: 200px;
+}
+
 h1 {
 	padding: 150px;
   	color: slategrey;
