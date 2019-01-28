@@ -12,6 +12,10 @@ ul {
   
 }
 
+li {
+  float: left;
+}
+
 li a {
   display: block;
   color: slategrey;
@@ -51,13 +55,14 @@ li a:hover {
 }
 
 h1 {
-	padding: 150px;
+	padding-top: 150px;
   	color: slategrey;
 	font-family: "New Century Schoolbook", serif;
 	font-size:28px;
 	text-align: center;
 	text-decoration: bold;
-	padding-bottom: 5px;;
+	padding-bottom: 5px;
+
 }
 
 h2 {
