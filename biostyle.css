@@ -37,6 +37,7 @@ li a:hover {
 h1 {
 	font-family: "New Century Schoolbook", serif;
 	font-size:28px;
+	text-decoration: bold;
 }
 
 p {
@@ -44,50 +45,19 @@ p {
 	font-size: 14px;
 }
 
-.containter {
-	max-width: 1024px;
-	width: 90%;
-	margin: 0 auto;
+.container {
+	position: relative;
+	max-width: 1200px;
+	margin:0 auto;
 }
 
-$border-color: rgba(steelblue, .3);
-
-.timeline-item {
-	padding: 3em 2em 2em;
-	position: relative;
-	color: rgba(slategrey, .7);
-	border-left: 2px solid $border-color;
-
-	p {
-		font-size: 1rem;
-	}
-
-	&::before {
-		content: attr(date-is);
-		position: absolute;
-		left: 2em;
-		font-weight: bold;
-		top: 1em;
-		display: block;
-		font-family: "Geneva", sans-serif;
-		font-weight: 700rem;
-	}
-
-	&::after {
-		width:10px;
-		height: 10px;
-		display: block;
-		top: 1em;
-		position: absolute;
-		left: -7px;
-		border-radius: 10px;
-		content: '';
-		border: 2px solid $border-color;
-		background: white;
-	}
-
-	&:last-child {
-		border-image:linear-gradient(to bottom, $border-color 60%, 
-			argba($border-color, 0)) 1 100%;
-	}
+.container::after {
+	content: '';
+	position: absolute;
+	width: 6px;
+	background-color: slategrey;
+	top: 0;
+	bottom: 0;
+	left: 5%;
+	margin-left: -3px;
 }
