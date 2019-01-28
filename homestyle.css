@@ -53,10 +53,6 @@ li a:hover {
   	float:left;
 }
 
-section {
-	margin-right: 200px;
-}
-
 h1 {
 	padding: 150px;
   	color: slategrey;
@@ -64,7 +60,7 @@ h1 {
 	font-size:28px;
 	text-align: center;
 	text-decoration: bold;
-	padding-bottom: 5px;
+	padding-bottom: 5px;;
 }
 
 h2 {
@@ -74,6 +70,7 @@ h2 {
 	text-align: center;
 	text-decoration: italic;
 	padding-bottom: 0px;
+	margin-right: 200px;
 }
 
 #hello {
@@ -81,12 +78,14 @@ h2 {
 	font-family:"Geneva", sans-serif;
 	font-size: 14px;
 	text-align: justify;
+	margin-right: 200px;
 }
 
 #box {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin-right: 200px;
 }
 
 #box-link {
