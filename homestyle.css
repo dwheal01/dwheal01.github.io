@@ -72,11 +72,15 @@ h2 {
 	padding-bottom: 0px;
 }
 
-p {
+#hello {
   	color: slategrey;
 	font-family:"Geneva", sans-serif;
 	font-size: 14px;
 	text-align: justify;
+}
+
+#box {
+	align-items: center;
 }
 
 #box-link {
@@ -88,7 +92,6 @@ p {
 	text-align: center;
 	text-decoration: none;
 	display:inline-block;
-	padding-left:150px;
 	border-radius: 5px;
 }
 
