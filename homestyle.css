@@ -64,7 +64,6 @@ h1 {
 }
 
 h2 {
-	padding: 150px;
   	color: slategrey;
 	font-family: "Apple Chancery", cursive;
 	font-size: 20px;
@@ -74,7 +73,6 @@ h2 {
 }
 
 p {
-	padding: 150px;
   	color: slategrey;
 	font-family:"Geneva", sans-serif;
 	font-size: 14px;
