@@ -82,7 +82,8 @@ p {
 
 #box-link {
 	width:100px;
-	border:3px steelblue;
+	border-width:3px;
+	border-color: steelblue; 
 	padding:15px;
 	border-radius:5px;
 	text-align: center;
