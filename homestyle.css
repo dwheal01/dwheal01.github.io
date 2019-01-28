@@ -53,12 +53,9 @@ li a:hover {
   	float:left;
 }
 
-section {	
-  	padding: 150px;
-  	color: slategrey;
-}
-
 h1 {
+	padding: 150px;
+  	color: slategrey;
 	font-family: "New Century Schoolbook", serif;
 	font-size:28px;
 	text-align: center;
@@ -67,6 +64,8 @@ h1 {
 }
 
 h2 {
+	padding: 150px;
+  	color: slategrey;
 	font-family: "Apple Chancery", cursive;
 	font-size: 20px;
 	text-align: center;
@@ -74,7 +73,9 @@ h2 {
 	padding-bottom: 0px;
 }
 
-p {
+#hello {
+	padding: 150px;
+  	color: slategrey;
 	font-family:"Geneva", sans-serif;
 	font-size: 14px;
 	text-align: justify;
