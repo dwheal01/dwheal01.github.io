@@ -71,6 +71,11 @@ p {
 	font-size: 14px;
 }
 
+ul {
+	font-family:"Geneva", sans-serif;
+	font-size: 14px;
+}
+
 .date {
 	float:right;
 	text-align: right;
