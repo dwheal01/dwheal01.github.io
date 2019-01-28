@@ -49,6 +49,7 @@ li a:hover {
 }
 
 #exp-sec {
+	margin-top: 25px;
 	width: 650px;
 	background-color:slategrey;
 	color:white;
@@ -57,9 +58,7 @@ li a:hover {
 	padding:14px 25px;
 	float:right;
 }
-span {
-	margin: 10px;
-}
+
 h1 {
 	font-family: "New Century Schoolbook", serif;
 	font-size:28px;
