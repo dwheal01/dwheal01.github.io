@@ -80,3 +80,13 @@ p {
 	text-align: justify;
 }
 
+#box-link {
+	width:100px;
+	border:3px steelblue;
+	padding:15px;
+	border-radius:5px;
+	text-align: center;
+	font-family:"Andale Mono", monospace;
+	font-size: 14px;
+}
+
