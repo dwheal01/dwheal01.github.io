@@ -34,7 +34,7 @@ h1 {
 	font-family: "New Century Schoolbook", serif;
 	font-size:28px;
 	text-align: center;
-	margin-right: 200px;
+	/*margin-right: 200px;*/
 
 }
 
@@ -43,7 +43,7 @@ h2 {
 	font-family: "Apple Chancery", cursive;
 	font-size: 20px;
 	text-align: center;
-	margin-right: 200px;
+	/*margin-right: 200px;*/
 }
 
 #hello {
@@ -51,14 +51,14 @@ h2 {
 	font-family:"Geneva", sans-serif;
 	font-size: 14px;
 	text-align: justify;
-	margin-right: 200px;
+	/*margin-right: 200px;*/
 }
 
 #box {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-right: 200px;
+	/*margin-right: 200px;*/
 }
 
 #box-link {
