@@ -41,6 +41,11 @@ li a:hover {
 	font-size:16px;
 }
 */
+#img-holder {
+	margin-left: -200px;
+	margin-right: -200px;
+}
+
 #canyon {
 	width: 100%;
 	border: 0;
