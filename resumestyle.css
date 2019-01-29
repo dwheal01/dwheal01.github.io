@@ -5,7 +5,7 @@ body {
 }
 
 #edu-sec {
-	width: 450px;
+	max-width: 450px;
 	background-color:steelblue;
 	color:white;
 	display:inline-block;
@@ -19,7 +19,7 @@ body {
 
 #exp-sec {
 	margin-top: 25px;
-	width: 650px;
+	max-width: 650px;
 	background-color:slategrey;
 	color:white;
 	display:inline-block;
@@ -30,7 +30,7 @@ body {
 
 #skil-sec {
 	margin-top:25px;
-	width: 450px;
+	max-width: 450px;
 	background-color:steelblue;
 	color:white;
 	display:inline-block;
@@ -43,7 +43,7 @@ body {
 #act-sec {
 	margin-top: 25px;
 	margin-bottom: 50px;
-	width: 650px;
+	max-width: 650px;
 	background-color:slategrey;
 	color:white;
 	display:inline-block;
