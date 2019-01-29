@@ -2,39 +2,8 @@ body {
 	background-color: white;
 	margin-left: 200px;
     margin-right: 200px;
-    margin-top: 3px;
-}
-/*
-#header {
-  list-style-type: none;
-  padding: 0;
-  overflow: hidden;
-  
 }
 
-li a {
-  display: block;
-  color: slategrey;
-  text-align: left;
-  padding: 28px 35px 28px 0px;
-  text-decoration: none;
-  
-}
-
-li a:hover {
-  text-decoration: underline;
-}
-
-#site-title{
-	font-family:"Andale Mono", monospace;
-	font-size:20px;
-}
-
-.page-link{
-	font-family:"Geneva", sans-serif;
-	font-size:16px;
-}
-*/
 #edu-sec {
 	width: 450px;
 	background-color:steelblue;
