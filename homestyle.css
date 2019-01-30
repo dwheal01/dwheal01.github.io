@@ -1,12 +1,16 @@
 body {
 	background-color: white;
-	margin-left: 200px;
-    margin-right: 200px;
+	/*margin-left: 200px;
+    margin-right: 200px;*/
+    margin-left:10%;
+    margin-right:10%;
 }
 
 #img-holder {
-	margin-left: -200px;
-	margin-right: -200px;
+	/*margin-left: -200px;
+	margin-right: -200px;*/
+	margin-left:-10%;
+	margin-right:-10%;
 }
 
 #canyon {
