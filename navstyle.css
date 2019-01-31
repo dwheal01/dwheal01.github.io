@@ -29,6 +29,6 @@ li a:hover {
 	font-size:16px;
 }
 
-#link-float {
+.link-float {
   float:right;
 }
