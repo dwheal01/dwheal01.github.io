@@ -1,14 +1,12 @@
 body {
 	background-color: white;
-	/*margin-left: 200px;
-    margin-right: 200px;*/
     margin-left:10%;
     margin-right:10%;
 }
 
+/* allow the image to span the entire page without the predefined 
+   margins */
 #img-holder {
-	/*margin-left: -200px;
-	margin-right: -200px;*/
 	margin-left:-10%;
 	margin-right:-10%;
 }
@@ -17,14 +15,12 @@ body {
 	width: 100%;
 	height: 95%;
 	border: 0;
-	/*margin-left: -200px;*/
-    /*margin-right: -200px;*/
 }
 
+/* make picture a circle and float next to text*/
 #me {
 	width: 400px;
 	height: 400px;
-	/*margin-left: 200px;*/
   	margin-right: 100px;
   	border-radius: 50%;
   	padding: 100px 0px 100px 0px;
@@ -38,7 +34,6 @@ h1 {
 	font-family: "New Century Schoolbook", serif;
 	font-size:28px;
 	text-align: center;
-	/*margin-right: 200px;*/
 
 }
 
@@ -47,7 +42,6 @@ h2 {
 	font-family: "Apple Chancery", cursive;
 	font-size: 20px;
 	text-align: center;
-	/*margin-right: 200px;*/
 }
 
 #hello {
@@ -55,14 +49,12 @@ h2 {
 	font-family:"Geneva", sans-serif;
 	font-size: 14px;
 	text-align: justify;
-	/*margin-right: 200px;*/
 }
 
+/* create a box link */
 #box {
 	display: flex;
 	justify-content: center;
-	align-items: center;
-	/*margin-right: 200px;*/
 }
 
 #box-link {

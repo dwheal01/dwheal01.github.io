@@ -19,6 +19,7 @@ p {
 	text-align: justify;
 }
 
+/* create the timeline and dots */
 .container {
 	position: relative;
 	max-width: 1200px;
